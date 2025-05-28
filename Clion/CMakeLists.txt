@@ -1,7 +1,7 @@
 #此文件从模板自动生成! 请勿更改!
 set(CMAKE_SYSTEM_NAME Generic)
 set(CMAKE_SYSTEM_VERSION 1)
-cmake_minimum_required(VERSION 3.29)
+cmake_minimum_required(VERSION 3.28)
 
 # specify cross-compilers and tools
 set(CMAKE_C_COMPILER arm-none-eabi-gcc)
@@ -55,11 +55,7 @@ add_definitions(-DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx)
 
 file(GLOB_RECURSE SOURCES "Core/*.*" "Drivers/*.*")
 
-set(LINKER_SCRIPT ${CMAKE_SOURCE_DIR}/STM32F407ZGTX_FLASH.ld
-        Drivers/BSP/OLED/bsp_iic.c
-        Drivers/BSP/OLED/bsp_iic.h
-        Drivers/BSP/common.c
-        Drivers/BSP/common.h)
+set(LINKER_SCRIPT ${CMAKE_SOURCE_DIR}/STM32F407ZGTX_FLASH.ld)
 
 add_link_options(-Wl,-gc-sections,--print-memory-usage,-Map=${PROJECT_BINARY_DIR}/${PROJECT_NAME}.map)
 add_link_options(-mcpu=cortex-m4 -mthumb -mthumb-interwork)

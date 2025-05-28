@@ -28,25 +28,25 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 68,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
 				"line" : 64,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 65,
+				"line" : 60,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 66,
+				"line" : 61,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 62,
 				"parent" : 0
 			},
 			{
@@ -151,31 +151,31 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "D:/project/Driver_Library/Clion/Drivers/BSP"
+					"path" : "C:/project/Driver_Labrary/Clion/Drivers/BSP"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/project/Driver_Library/Clion/Drivers/BSP/OLED"
+					"path" : "C:/project/Driver_Labrary/Clion/Drivers/BSP/OLED"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/project/Driver_Library/Clion/Core/Inc"
+					"path" : "C:/project/Driver_Labrary/Clion/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/project/Driver_Library/Clion/Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "C:/project/Driver_Labrary/Clion/Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/project/Driver_Library/Clion/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/project/Driver_Labrary/Clion/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/project/Driver_Library/Clion/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "C:/project/Driver_Labrary/Clion/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/project/Driver_Library/Clion/Drivers/CMSIS/Include"
+					"path" : "C:/project/Driver_Labrary/Clion/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "C",
@@ -283,31 +283,31 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "D:/project/Driver_Library/Clion/Drivers/BSP"
+					"path" : "C:/project/Driver_Labrary/Clion/Drivers/BSP"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/project/Driver_Library/Clion/Drivers/BSP/OLED"
+					"path" : "C:/project/Driver_Labrary/Clion/Drivers/BSP/OLED"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/project/Driver_Library/Clion/Core/Inc"
+					"path" : "C:/project/Driver_Labrary/Clion/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/project/Driver_Library/Clion/Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "C:/project/Driver_Labrary/Clion/Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/project/Driver_Library/Clion/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/project/Driver_Labrary/Clion/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/project/Driver_Library/Clion/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "C:/project/Driver_Labrary/Clion/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "D:/project/Driver_Library/Clion/Drivers/CMSIS/Include"
+					"path" : "C:/project/Driver_Labrary/Clion/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "ASM",
@@ -332,7 +332,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=D:/project/Driver_Library/Clion/cmake-build-debug/Clion.map",
+				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=C:/project/Driver_Labrary/Clion/cmake-build-debug/Clion.map",
 				"role" : "flags"
 			},
 			{
@@ -357,27 +357,7 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "D:/project/Driver_Library/Clion/STM32F407ZGTX_FLASH.ld",
-				"role" : "flags"
-			},
-			{
-				"backtrace" : 4,
-				"fragment" : "Drivers/BSP/OLED/bsp_iic.c",
-				"role" : "flags"
-			},
-			{
-				"backtrace" : 4,
-				"fragment" : "Drivers/BSP/OLED/bsp_iic.h",
-				"role" : "flags"
-			},
-			{
-				"backtrace" : 4,
-				"fragment" : "Drivers/BSP/common.c",
-				"role" : "flags"
-			},
-			{
-				"backtrace" : 4,
-				"fragment" : "Drivers/BSP/common.h",
+				"fragment" : "C:/project/Driver_Labrary/Clion/STM32F407ZGTX_FLASH.ld",
 				"role" : "flags"
 			}
 		],

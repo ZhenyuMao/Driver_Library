@@ -1,4 +1,4 @@
-# Install script for directory: D:/project/Driver_Library/Clion
+# Install script for directory: C:/project/Driver_Labrary/Clion
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/project/Driver_Library/Clion/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/project/Driver_Labrary/Clion/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

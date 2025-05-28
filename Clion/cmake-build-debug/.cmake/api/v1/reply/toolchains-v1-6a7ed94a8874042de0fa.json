@@ -7,7 +7,7 @@
 			{
 				"id" : "GNU",
 				"implicit" : {},
-				"path" : "D:/Software/arm-gnu-toolchain/bin/arm-none-eabi-gcc.exe",
+				"path" : "C:/Software/arm-gnu-toolchain/bin/arm-none-eabi-gcc.exe",
 				"version" : ""
 			},
 			"language" : "ASM",
@@ -26,15 +26,15 @@
 				{
 					"includeDirectories" : 
 					[
-						"D:/Software/arm-gnu-toolchain/lib/gcc/arm-none-eabi/13.3.1/include",
-						"D:/Software/arm-gnu-toolchain/lib/gcc/arm-none-eabi/13.3.1/include-fixed",
-						"D:/Software/arm-gnu-toolchain/arm-none-eabi/include"
+						"C:/Software/arm-gnu-toolchain/lib/gcc/arm-none-eabi/13.3.1/include",
+						"C:/Software/arm-gnu-toolchain/lib/gcc/arm-none-eabi/13.3.1/include-fixed",
+						"C:/Software/arm-gnu-toolchain/arm-none-eabi/include"
 					],
 					"linkDirectories" : [],
 					"linkFrameworkDirectories" : [],
 					"linkLibraries" : []
 				},
-				"path" : "D:/Software/arm-gnu-toolchain/bin/arm-none-eabi-gcc.exe",
+				"path" : "C:/Software/arm-gnu-toolchain/bin/arm-none-eabi-gcc.exe",
 				"version" : "13.3.1"
 			},
 			"language" : "C",
@@ -52,18 +52,18 @@
 				{
 					"includeDirectories" : 
 					[
-						"D:/Software/arm-gnu-toolchain/arm-none-eabi/include/c++/13.3.1",
-						"D:/Software/arm-gnu-toolchain/arm-none-eabi/include/c++/13.3.1/arm-none-eabi",
-						"D:/Software/arm-gnu-toolchain/arm-none-eabi/include/c++/13.3.1/backward",
-						"D:/Software/arm-gnu-toolchain/lib/gcc/arm-none-eabi/13.3.1/include",
-						"D:/Software/arm-gnu-toolchain/lib/gcc/arm-none-eabi/13.3.1/include-fixed",
-						"D:/Software/arm-gnu-toolchain/arm-none-eabi/include"
+						"C:/Software/arm-gnu-toolchain/arm-none-eabi/include/c++/13.3.1",
+						"C:/Software/arm-gnu-toolchain/arm-none-eabi/include/c++/13.3.1/arm-none-eabi",
+						"C:/Software/arm-gnu-toolchain/arm-none-eabi/include/c++/13.3.1/backward",
+						"C:/Software/arm-gnu-toolchain/lib/gcc/arm-none-eabi/13.3.1/include",
+						"C:/Software/arm-gnu-toolchain/lib/gcc/arm-none-eabi/13.3.1/include-fixed",
+						"C:/Software/arm-gnu-toolchain/arm-none-eabi/include"
 					],
 					"linkDirectories" : [],
 					"linkFrameworkDirectories" : [],
 					"linkLibraries" : []
 				},
-				"path" : "D:/Software/arm-gnu-toolchain/bin/arm-none-eabi-g++.exe",
+				"path" : "C:/Software/arm-gnu-toolchain/bin/arm-none-eabi-g++.exe",
 				"version" : "13.3.1"
 			},
 			"language" : "CXX",

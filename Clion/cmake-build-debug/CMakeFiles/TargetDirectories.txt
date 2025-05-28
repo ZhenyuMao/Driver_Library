@@ -1,3 +1,3 @@
-D:/project/Driver_Library/Clion/cmake-build-debug/CMakeFiles/Clion.elf.dir
-D:/project/Driver_Library/Clion/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/project/Driver_Library/Clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/project/Driver_Labrary/Clion/cmake-build-debug/CMakeFiles/Clion.elf.dir
+C:/project/Driver_Labrary/Clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/project/Driver_Labrary/Clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
